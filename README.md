@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nilanjan39
-- 👀 I’m interested in Ethical Hacking , fullstack(marn), AI.
+- 👀 I’m interested in Ethical Hacking , fullstack(mern), AI.
 - 🌱 I’m currently learning ...AI , FullStack 
 - 💞️ I’m looking to collaborate on ... FullStack , Ethical Hacking
 - 📫 How to reach me ... Linkdin :- https://www.linkedin.com/in/nilanjan-chatterjee-4844b8250 ,  Gmail - nilanjan9878chatterjee@gmail.com
