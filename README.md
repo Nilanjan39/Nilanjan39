@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nilanjan39
 - 👀 I’m interested in Data Analyst , fullstack(mern), AI.
-- 🌱 I’m currently learning ...AI , FullStack 
-- 💞️ I’m looking to collaborate on ... FullStack , Ethical Hacking
+- 🌱 I’m currently learning ...AI  
+- 💞️ I’m looking to collaborate on ... FullStack , Data Analyst
 - 📫 How to reach me ... Linkdin :- https://www.linkedin.com/in/nilanjan-chatterjee-4844b8250 ,  Gmail - nilanjan9878chatterjee@gmail.com
 - 😄 Pronouns: ... English ,Hindi , Bengali
 - ⚡ Fun fact: ...
